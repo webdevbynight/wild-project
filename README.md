@@ -1,1 +1,3 @@
-This is a test for a workshop during a course at Wild Code School.
+# wild-project
+How to install this project?
+All we have to do for now is clone it.
